@@ -563,7 +563,7 @@ export default NavBar;
 ```jsx
 // src/components/App.js
 import React from "react";
-import { Route, Switch } from "react-router-dom";
+import { Route, Switch }; "react-router-dom";
 import Home from "./Home";
 import About from "./About";
 import Login from "./Login";
